@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lukeathedev
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning how to make apps work with React Native and Expo
-- 💞️ I’m looking to collaborate on stuff (don't really know right now)
-- 📫 How to reach me: don't (just kidding, I think my twitter is linked somewhere)
+- 🌱 I’m slowly learning new things
+- 💞️ I’m looking to have fun in personal projects
+- 📫 How to reach me: email is preferrable
 
 <!---
 lukeathedev/lukeathedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
