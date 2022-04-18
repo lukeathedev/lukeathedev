@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukeathedev
 - 👀 I’m interested in computers
-- 🌱 I’m slowly learning new things
+- 🌱 I’m learning new things
 - 💞️ I’m looking to have fun in personal projects
 - 📫 How to reach me: email is preferrable
 
